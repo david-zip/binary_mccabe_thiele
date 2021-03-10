@@ -6,7 +6,7 @@ A continuous fractionating column is to be designed to separate 30,000 kg/h of a
 
 Determine the **number of ideal plates** and the **position of the feed plate** if the feed is liquid and at its boiling point
 
-link: 
+link: https://github.com/padamson/python_cheme
 
 ## Conversion to Object Orientated Python
 
